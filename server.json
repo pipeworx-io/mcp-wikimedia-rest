@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/wikimedia-rest",
   "title": "Wikimedia Rest",
   "description": "Wikimedia REST API v1 MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/wikimedia-rest",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-wikimedia-rest",
