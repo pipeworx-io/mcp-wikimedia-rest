@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-wikimedia-rest",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Wikimedia REST API v1 MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "wikimedia-rest",
     "gatewaySlug": "wikimedia-rest",
-    "sourceHash": "v1-24484c7aa17fd37f209601d94fbf2b307c6d0d1cc8b5926b0b085c32c2d2ea7c",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-ce25c0fe58452ab01b4cdf384a83ffd3f7ded0d4cf1d97380b264b0d1c2199f3",
+    "sourceCommit": "78b905fa3a6880dfb85c79150f4bffe8cf50ef00"
   }
 }
